@@ -1441,6 +1441,14 @@ margin-right: 0;
 .search-1FM8Qc .searchBar-zdmu7v, .queryContainer__55c99.focused__55c99 {
 	background: var(--dplus-bgc-ui-base)!important;
 }
+.searchPopout__2TBL2 {
+   	 background-color: hsla(
+        	var(--dplus-background-color-hue), 
+        	calc(var(--dplus-background-color-saturation-amount) * 100%), 
+        	calc(var(--dplus-background-color-lightness-amount) * 100%), 
+        	1
+    	) !important;
+}
 #app-mount .searchResultMessage-1fxgXh.sibling-1eJVjd {
 	opacity: 1 !important;
 	filter: blur(calc(var(--blur-small) / 100 * var(--dplus-blur-scale)));
