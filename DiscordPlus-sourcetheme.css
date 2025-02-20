@@ -1146,9 +1146,6 @@ margin-right: 0;
 	background: transparent;
 	border-radius: var(--dplus-radius-ui);
 }
-.chatContent_f75fb0, .form_f75fb0:before, .replying__5126c:before {
-	background: transparent !important;
-}
 .wrapper_fc8177, #app-mount .children__9293f:after {display: none;}
 .group-spacing-0 { --group-spacing: 0px; }
 .group-spacing-4 { --group-spacing: 4px; }
