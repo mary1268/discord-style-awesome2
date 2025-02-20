@@ -1403,6 +1403,7 @@ margin-right: 0;
 	border-radius: var(--dplus-radius-ui);
 	width: 404px!important;
 	margin-left: -68px;
+	opacity: 0.3 !important
 }
 #app-mount .option-2KkUJO.selected-rZcOL- {
 	background-color: var(--dplus-accent-ui);
@@ -1451,6 +1452,7 @@ margin-right: 0;
 }
 #app-mount .searchResultMessage-1fxgXh.sibling-1eJVjd {
 	opacity: 1 !important;
+	filter: blur(calc(var(--blur-small) / 100 * var(--dplus-blur-scale)));
 }
 #app-mount .elevationBorderHigh__2b2f1 {box-shadow: none;}
 
