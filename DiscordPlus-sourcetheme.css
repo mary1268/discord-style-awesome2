@@ -1430,8 +1430,11 @@ margin-right: 0;
 	opacity: 1 !important;
 }
 .searchResult__02a39 {
-    	background-color: var(--dplus-bgc-popout) !important;
-    	opacity: 1 !important;
+    	background-color: hsl(
+        	var(--dplus-background-color-hue), 
+        	calc(var(--dplus-background-color-saturation-amount) * 100%), 
+        	calc(var(--dplus-background-color-lightness-amount) * 100%)
+    	) !important;
 }
 .searchResult__02a39.expanded-w_LCGl {
 	border: 1px solid var(--dplus-accent-ui) !important;
