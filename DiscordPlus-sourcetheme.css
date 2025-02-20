@@ -1443,7 +1443,7 @@ margin-right: 0;
 	background: var(--dplus-bgc-ui-base)!important;
 }
 #app-mount .searchResultMessage-1fxgXh.sibling-1eJVjd {
-	opacity: .8;
+	opacity: 1!important;
 	filter: blur(calc(var(--blur-small) / 100 * var(--dplus-blur-scale)));
 }
 #app-mount .elevationBorderHigh__2b2f1 {box-shadow: none;}
