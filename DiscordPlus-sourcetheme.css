@@ -1430,8 +1430,8 @@ margin-right: 0;
 	opacity: 0.3;
 }
 .searchResult__02a39 {
-    background-color: var(--dplus-bgc-popout) !important;
-    opacity: 1 !important;
+    	background-color: var(--dplus-bgc-popout) !important;
+    	opacity: 1 !important;
 }
 .searchResult__02a39.expanded-w_LCGl {
 	border: 1px solid var(--dplus-accent-ui) !important;
@@ -1447,7 +1447,7 @@ margin-right: 0;
 	background: var(--dplus-bgc-ui-base)!important;
 }
 #app-mount .searchResultMessage-1fxgXh.sibling-1eJVjd {
-    opacity: 1 !important;
+    	opacity: 1 !important;
 }
 #app-mount .searchResultMessage-1fxgXh.sibling-1eJVjd {
 	opacity: 1 !important;
